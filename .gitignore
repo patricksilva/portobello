@@ -7,3 +7,6 @@
 
 # Shared Objects Files
 *.shared
+
+# Base Log file
+**/Log.txt
